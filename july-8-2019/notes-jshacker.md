@@ -5,7 +5,7 @@
 2. Ask clarifying questions
 3. Provide an example case
   a. Remember to think about edge / null test cases
-4. Give as much accurate data to help hiring manager a general idea of skills and communication level.
+4. Give as much accurate data to help hiring manager get a general idea of skills and communication level.
 
 ### The Approach
 1. Demonstrate your general approach
