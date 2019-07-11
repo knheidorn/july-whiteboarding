@@ -9,7 +9,6 @@ function reverseArray(array) {
 }
 
 // let array = ["H", "e", "l", "l", "o"]
-
 // reverseArray(array)
 
 
